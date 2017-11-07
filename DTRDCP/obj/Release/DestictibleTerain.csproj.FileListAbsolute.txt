@@ -1,0 +1,65 @@
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP\DTRDCP\bin\DesktopGL\AnyCPU\Release\MonoGame.Framework.dll.config
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP\DTRDCP\bin\DesktopGL\AnyCPU\Release\Content\explosion.xnb
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP\DTRDCP\bin\DesktopGL\AnyCPU\Release\Content\level.xnb
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP\DTRDCP\bin\DesktopGL\AnyCPU\Release\Content\retry.xnb
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP\DTRDCP\bin\DesktopGL\AnyCPU\Release\Content\weapon.xnb
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP\DTRDCP\bin\DesktopGL\AnyCPU\Release\x86\SDL2.dll
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP\DTRDCP\bin\DesktopGL\AnyCPU\Release\x64\SDL2.dll
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP\DTRDCP\bin\DesktopGL\AnyCPU\Release\x86\soft_oal.dll
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP\DTRDCP\bin\DesktopGL\AnyCPU\Release\x64\soft_oal.dll
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP\DTRDCP\bin\DesktopGL\AnyCPU\Release\x86\libSDL2-2.0.so.0
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP\DTRDCP\bin\DesktopGL\AnyCPU\Release\x64\libSDL2-2.0.so.0
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP\DTRDCP\bin\DesktopGL\AnyCPU\Release\x86\libopenal.so.1
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP\DTRDCP\bin\DesktopGL\AnyCPU\Release\x64\libopenal.so.1
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP\DTRDCP\bin\DesktopGL\AnyCPU\Release\libSDL2-2.0.0.dylib
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP\DTRDCP\bin\DesktopGL\AnyCPU\Release\libopenal.1.dylib
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP\DTRDCP\bin\DesktopGL\AnyCPU\Release\DTRDCP.exe
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP\DTRDCP\bin\DesktopGL\AnyCPU\Release\DTRDCP.pdb
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP\DTRDCP\bin\DesktopGL\AnyCPU\Release\MonoGame.Framework.dll
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP\DTRDCP\obj\Release\DestictibleTerain.csproj.CoreCompileInputs.cache
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP\DTRDCP\obj\Release\DTRDCP.exe
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP\DTRDCP\obj\Release\DTRDCP.pdb
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP - kopie\DTRDCP\bin\DesktopGL\AnyCPU\Release\x86\SDL2.dll
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP - kopie\DTRDCP\bin\DesktopGL\AnyCPU\Release\x64\SDL2.dll
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP - kopie\DTRDCP\bin\DesktopGL\AnyCPU\Release\x86\soft_oal.dll
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP - kopie\DTRDCP\bin\DesktopGL\AnyCPU\Release\x64\soft_oal.dll
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP - kopie\DTRDCP\bin\DesktopGL\AnyCPU\Release\x86\libSDL2-2.0.so.0
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP - kopie\DTRDCP\bin\DesktopGL\AnyCPU\Release\x64\libSDL2-2.0.so.0
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP - kopie\DTRDCP\bin\DesktopGL\AnyCPU\Release\x86\libopenal.so.1
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP - kopie\DTRDCP\bin\DesktopGL\AnyCPU\Release\x64\libopenal.so.1
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP - kopie\DTRDCP\bin\DesktopGL\AnyCPU\Release\libSDL2-2.0.0.dylib
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP - kopie\DTRDCP\bin\DesktopGL\AnyCPU\Release\libopenal.1.dylib
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP - kopie\DTRDCP\bin\DesktopGL\AnyCPU\Release\MonoGame.Framework.dll.config
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP - kopie\DTRDCP\bin\DesktopGL\AnyCPU\Release\Content\explosion.xnb
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP - kopie\DTRDCP\bin\DesktopGL\AnyCPU\Release\Content\level.xnb
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP - kopie\DTRDCP\bin\DesktopGL\AnyCPU\Release\Content\retry.xnb
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP - kopie\DTRDCP\bin\DesktopGL\AnyCPU\Release\Content\weapon.xnb
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP - kopie\DTRDCP\bin\DesktopGL\AnyCPU\Release\DTRDCP.exe
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP - kopie\DTRDCP\bin\DesktopGL\AnyCPU\Release\DTRDCP.pdb
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP - kopie\DTRDCP\bin\DesktopGL\AnyCPU\Release\MonoGame.Framework.dll
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP - kopie\DTRDCP\obj\Release\DestictibleTerain.csprojResolveAssemblyReference.cache
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP - kopie\DTRDCP\obj\Release\DestictibleTerain.csproj.CoreCompileInputs.cache
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP - kopie\DTRDCP\obj\Release\DTRDCP.exe
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DTRDCP - kopie\DTRDCP\obj\Release\DTRDCP.pdb
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DT\DTRDCP\bin\DesktopGL\AnyCPU\Release\x86\SDL2.dll
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DT\DTRDCP\bin\DesktopGL\AnyCPU\Release\x64\SDL2.dll
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DT\DTRDCP\bin\DesktopGL\AnyCPU\Release\x86\soft_oal.dll
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DT\DTRDCP\bin\DesktopGL\AnyCPU\Release\x64\soft_oal.dll
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DT\DTRDCP\bin\DesktopGL\AnyCPU\Release\x86\libSDL2-2.0.so.0
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DT\DTRDCP\bin\DesktopGL\AnyCPU\Release\x64\libSDL2-2.0.so.0
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DT\DTRDCP\bin\DesktopGL\AnyCPU\Release\x86\libopenal.so.1
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DT\DTRDCP\bin\DesktopGL\AnyCPU\Release\x64\libopenal.so.1
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DT\DTRDCP\bin\DesktopGL\AnyCPU\Release\libSDL2-2.0.0.dylib
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DT\DTRDCP\bin\DesktopGL\AnyCPU\Release\libopenal.1.dylib
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DT\DTRDCP\bin\DesktopGL\AnyCPU\Release\MonoGame.Framework.dll.config
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DT\DTRDCP\bin\DesktopGL\AnyCPU\Release\Content\explosion.xnb
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DT\DTRDCP\bin\DesktopGL\AnyCPU\Release\Content\level.xnb
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DT\DTRDCP\bin\DesktopGL\AnyCPU\Release\Content\retry.xnb
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DT\DTRDCP\bin\DesktopGL\AnyCPU\Release\Content\weapon.xnb
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DT\DTRDCP\bin\DesktopGL\AnyCPU\Release\Destructible Terrain.exe
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DT\DTRDCP\bin\DesktopGL\AnyCPU\Release\Destructible Terrain.pdb
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DT\DTRDCP\bin\DesktopGL\AnyCPU\Release\MonoGame.Framework.dll
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DT\DTRDCP\obj\Release\DestictibleTerain.csprojResolveAssemblyReference.cache
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DT\DTRDCP\obj\Release\DestictibleTerain.csproj.CoreCompileInputs.cache
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DT\DTRDCP\obj\Release\Destructible Terrain.exe
+E:\personal\Code\MonoGame\Destructable Terrain\DTRD\DT\DTRDCP\obj\Release\Destructible Terrain.pdb
